@@ -18,7 +18,7 @@ jobs:
 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
+          API_BASE_URL: https://api.wakatime.com/api/v1 # optional
           REPOSITORY: ARYPROGRAMMER/ARYPROGRAMMER # optional
           ### content
           SHOW_TITLE: true # optional
