@@ -42,7 +42,7 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 November 2024 - To: 05 November 2024
+From: 01 November 2024 - To: 06 November 2024
 
 Total Time: 4 mins
 
