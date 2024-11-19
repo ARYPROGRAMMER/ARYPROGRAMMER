@@ -40,15 +40,6 @@ create_impact()
 
 
 <!--START_SECTION:waka-->
-
-```python
-From: 01 November 2024 - To: 17 November 2024
-
-Total Time: 4 mins
-
-Other   14 mins         >>>>>>>>>>>>>>>>>>>------   75.01 %
-```
-
 <!--END_SECTION:waka-->
 
 ### 🔝 Top Contributed Repo
