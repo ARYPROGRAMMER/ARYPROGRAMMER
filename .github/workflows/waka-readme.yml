@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at (2:00 AM IST)
-    - cron: "30 8 * * *"
+    # runs at (12:00 AM IST)
+    - cron: "30 18 * * *"
 
 jobs:
   update-readme:
@@ -17,6 +17,7 @@ jobs:
         with:
 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: ARYPROGRAMMER/ARYPROGRAMMER # optional
