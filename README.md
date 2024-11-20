@@ -41,7 +41,7 @@ create_impact()
 
 <!--START_SECTION:waka-->
 
-```python
+```rust
 From: 01 November 2024 - To: 19 November 2024
 
 Total Time: 3 hrs 57 mins
