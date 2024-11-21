@@ -26,7 +26,6 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           SHOW_LANGUAGE: true
-          CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
