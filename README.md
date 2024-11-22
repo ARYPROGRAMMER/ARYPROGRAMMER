@@ -41,12 +41,12 @@ create_impact()
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 01 November 2024 - To: 20 November 2024
+```txt
+From: 01 November 2024 - To: 21 November 2024
 
-Total Time: 5 hrs 13 mins
+Total Time: 6 hrs 39 mins
 
-Other        9 hrs 45 mins   >>>>>>>>>>>>>>>>---------   65.11 %
+Other        13 hrs 54 mins  >>>>>>>>>>>>>>>>>--------   67.60 %
 ```
 
 <!--END_SECTION:waka-->
