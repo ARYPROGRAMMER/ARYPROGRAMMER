@@ -42,15 +42,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 23 November 2024
+From: 17 November 2024 - To: 24 November 2024
 
-Total Time: 10 hrs 5 mins
+Total Time: 12 hrs
 
-Other        26 hrs 9 mins   ██████████████████░░░░░░░   72.18 %
-Dart         5 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Markdown     4 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other        32 hrs 54 mins  ██████████████████▒░░░░░░   73.25 %
+Markdown     5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Dart         5 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+JavaScript   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TSX          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
