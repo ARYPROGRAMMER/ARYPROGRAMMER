@@ -37,6 +37,8 @@ create_impact()
 ![](https://github-readme-stats.vercel.app/api?username=ARYPROGRAMMER&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ARYPROGRAMMER&theme=neon&hide_border=false)<br/>
 
+[![ARYPROGRAMMER's GitHub | Languages Over Time](https://stats.quira.sh/ARYPROGRAMMER/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ARYPROGRAMMER)
+[![ARYPROGRAMMER's GitHub | Topics Over Time](https://stats.quira.sh/ARYPROGRAMMER/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ARYPROGRAMMER)
 
 <!--START_SECTION:waka-->
 
