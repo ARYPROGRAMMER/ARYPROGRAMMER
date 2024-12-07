@@ -41,15 +41,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 26 hrs 10 mins
+Total Time: 23 hrs 43 mins
 
-Other             31 hrs 35 mins  █████████████▓░░░░░░░░░░░   54.69 %
-Dart              16 hrs 1 min    ███████░░░░░░░░░░░░░░░░░░   27.73 %
-Python            2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-YAML              1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-TypeScript        1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Other             30 hrs 18 mins  ██████████████░░░░░░░░░░░   56.08 %
+Dart              14 hrs 56 mins  ███████░░░░░░░░░░░░░░░░░░   27.65 %
+Python            2 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+YAML              1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Markdown          48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
