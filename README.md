@@ -1,10 +1,10 @@
 # [![An image of @aryprogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryprogrammer)](https://holopin.io/@aryprogrammer)
 
+# Support me [Here](buymeacoffee.com/aryasingh) for building [CodeX](https://github.com/ARYPROGRAMMER/CodeX)
+
 # 🌌 Developer | Innovator | Building Robust Apps
 
-
 > "Code is my canvas, innovation is my art."
-
 
 Passionate about **writing meaningful code** and **crafting solutions that leave a mark**.  
 I bring expertise in `Development` and `DevOps`, driven by the belief that **great code** can change the world.
