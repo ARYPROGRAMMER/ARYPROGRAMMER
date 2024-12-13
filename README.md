@@ -1,6 +1,6 @@
 # [![An image of @aryprogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryprogrammer)](https://holopin.io/@aryprogrammer)
 
-# Support me [Here](buymeacoffee.com/aryasingh) for building [CodeX](https://github.com/ARYPROGRAMMER/CodeX)
+# Support me [Here](https://buymeacoffee.com/aryasingh) for building [CodeX](https://github.com/ARYPROGRAMMER/CodeX)
 
 # 🌌 Developer | Innovator | Building Robust Apps
 
