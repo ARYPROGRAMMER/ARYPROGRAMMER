@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Total Time: 21 hrs 28 mins
+Total Time: 20 hrs 1 min
 
-Other             41 hrs 13 mins  ████████████████▒░░░░░░░░   65.75 %
-TypeScript        13 hrs 42 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-JavaScript        2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Common Lisp       1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Dart              1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other             37 hrs 11 mins  ████████████████▒░░░░░░░░   65.01 %
+TypeScript        10 hrs 39 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+Dart              2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JavaScript        2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Common Lisp       1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
