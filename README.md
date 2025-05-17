@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 21 hrs 56 mins
+Total Time: 18 hrs 52 mins
 
-Other             35 hrs 19 mins  ███████████████▒░░░░░░░░░   61.69 %
-TypeScript        16 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.24 %
-Dart              2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Image (svg)       56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-TSX               38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other             29 hrs 2 mins   ███████████████░░░░░░░░░░   60.61 %
+TypeScript        12 hrs 42 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+Dart              2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Image (svg)       56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TSX               38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
