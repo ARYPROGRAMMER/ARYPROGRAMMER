@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-Total Time: 2 hrs 54 mins
+Total Time: 4 hrs 50 mins
 
-Other    16 hrs 9 mins   █████████████████████▒░░░   84.72 %
-C++      2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Prisma   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JSON     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Python   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Other    20 hrs 32 mins  ████████████████████▒░░░░   80.92 %
+C++      4 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+Prisma   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+JSON     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
