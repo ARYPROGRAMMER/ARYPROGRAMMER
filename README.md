@@ -45,12 +45,12 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 12 hrs 8 mins
+Total Time: 13 hrs 37 mins
 
-Other   33 hrs 57 mins  ██████████████████▒░░░░░░   73.66 %
-C++     12 hrs 8 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+Other   33 hrs 46 mins  █████████████████▓░░░░░░░   71.24 %
+C++     13 hrs 37 mins  ███████▒░░░░░░░░░░░░░░░░░   28.76 %
 ```
 
 <!--END_SECTION:waka-->
