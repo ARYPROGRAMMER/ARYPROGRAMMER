@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Total Time: 19 hrs 17 mins
+Total Time: 16 hrs 48 mins
 
-Other           30 hrs 11 mins  ███████████████▒░░░░░░░░░   61.01 %
-TypeScript      11 hrs 51 mins  ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-YAML            3 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON            1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Rust            43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other           30 hrs 23 mins  ████████████████░░░░░░░░░   64.38 %
+TypeScript      10 hrs 14 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+YAML            2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+JSON            1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Markdown        59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
