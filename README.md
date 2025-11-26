@@ -45,14 +45,14 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Total Time: 3 hrs 21 mins
+Total Time: 3 hrs 46 mins
 
-Other        16 hrs 43 mins  ████████████████████▓░░░░   83.28 %
-TypeScript   2 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-SQL          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        18 hrs 8 mins   ████████████████████▓░░░░   82.75 %
+TypeScript   3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+SQL          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
