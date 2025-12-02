@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Total Time: 8 hrs 36 mins
+Total Time: 8 hrs 30 mins
 
-Other        15 hrs 15 mins  ████████████████░░░░░░░░░   63.91 %
-TypeScript   7 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
-C++          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-C            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        14 hrs 17 mins  ███████████████▓░░░░░░░░░   62.69 %
+TypeScript   7 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   31.52 %
+C++          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
