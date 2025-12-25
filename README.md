@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 51 mins
+Total Time: 1 hr 4 mins
 
-Other        5 hrs 20 mins   █████████████████████▓░░░   86.26 %
-C++          34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-PHP          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        8 hrs 40 mins   ██████████████████████▒░░   88.99 %
+C++          34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+PHP          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
