@@ -45,13 +45,13 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Total Time: 1 hr 23 mins
+Total Time: 1 hr 25 mins
 
-Other      9 hrs 52 mins   ██████████████████████░░░   87.59 %
-Dart       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-C++        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Other      9 hrs 52 mins   ██████████████████████░░░   87.42 %
+Dart       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+C++        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 C          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
