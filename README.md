@@ -45,12 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Total Time: 40 mins
+Total Time: 1 hr 38 mins
 
-Other   6 hrs 25 mins   ██████████████████████▓░░   90.40 %
-Dart    40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Other        10 hrs 31 mins  █████████████████████▓░░░   86.53 %
+Dart         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Docker       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
