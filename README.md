@@ -45,12 +45,12 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
 Total Time: 10 mins
 
-Other   5 hrs 8 mins          ████████████████████████░   96.48 %
-JSON    11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other   4 hrs 56 mins         ████████████████████████░   96.34 %
+JSON    11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 Shell   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
