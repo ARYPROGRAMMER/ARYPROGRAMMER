@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Total Time: 20 hrs 9 mins
+Total Time: 18 hrs 22 mins
 
-TypeScript   15 hrs 49 mins        ██████████████░░░░░░░░░░░   55.40 %
-Other        8 hrs 24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 %
-JSON         2 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Markdown     1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JavaScript   56 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TypeScript   15 hrs 4 mins         ████████████████▒░░░░░░░░   64.81 %
+Other        4 hrs 54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+JSON         1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Markdown     52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript   30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
