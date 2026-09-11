@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 6 hrs 15 mins
+Total Time: 5 hrs 25 mins
 
-Other        13 hrs 31 mins        █████████████████░░░░░░░░   68.27 %
-TypeScript   3 hrs 43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Dart         1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Kotlin       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Python       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other        14 hrs 36 mins        ██████████████████▒░░░░░░   72.85 %
+TypeScript   3 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Dart         1 hr 44 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Kotlin       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Bash         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
