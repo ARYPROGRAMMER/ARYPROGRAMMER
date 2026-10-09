@@ -45,15 +45,15 @@ create_impact()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 7 hrs 9 mins
+Total Time: 5 hrs 35 mins
 
-Other                      21 hrs 34 mins        ██████████████████▓░░░░░░   75.09 %
-TypeScript                 3 hrs 53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Python                     1 hr 58 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Git                        27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Markdown                   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other                      24 hrs 35 mins        ████████████████████▒░░░░   81.48 %
+TypeScript                 2 hrs 50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Python                     1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Git                        27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash                       11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
